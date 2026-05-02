@@ -1,0 +1,20 @@
+# Never commit real credentials
+.env
+.env.*
+!.env.example
+
+# Student client data
+clients/
+output/
+drafts/
+
+# Claude Code local settings (may contain API keys)
+.claude/settings.local.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+*.log
+node_modules/
