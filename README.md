@@ -1,3 +1,15 @@
+# This moved
+
+Everything here now lives inside **[aipm-operator-stack](https://github.com/BrettZuke/aipm-operator-stack)**, in `skills`.
+
+Clone that instead. It is kept up to date and scanned before every push; this copy is not.
+
+```bash
+git clone https://github.com/BrettZuke/aipm-operator-stack.git
+```
+
+---
+
 # AI Partner Method — Claude Code Starter
 
 53 skills that turn Claude Code into your personal business operator.
